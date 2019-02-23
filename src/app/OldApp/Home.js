@@ -48,7 +48,8 @@ export class Home extends React.Component{
                             return (
                                 <li key={i}>{hobby}</li>
                             )
-                        }      )}
+                           })
+                        }
                     </ul>
                 </div>
 
